@@ -11,3 +11,5 @@ function past(h, m, s) {
     // Return the total time in milliseconds
     return hoursInMs + minutesInMs + secondsInMs;
   }
+
+  //this code simply converts the given hours, minutes, and seconds to milliseconds and adds them up to get the total time in milliseconds since midnight
