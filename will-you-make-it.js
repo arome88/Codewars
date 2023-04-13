@@ -18,4 +18,4 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
             //if 'distancePossible' is greater than or equal to 'distanceToPump', then there is enough fuel to reach the next pump, so the function returns true otherwise, there is not enough fuel to reach the next pump, so the function returns false
   };
 
-  //in summary, this function takes in 3 parameters representing the vehicle's current fuel state and the distance to the nxt fuel pump, calculates the maximum distance the vehicle can travel with the current fuel, and returns a boolean value indicating whether or not the vehicle can reach the next fuel pump with the current fuel.
+  //this function takes in 3 parameters representing the vehicle's current fuel state and the distance to the nxt fuel pump, calculates the maximum distance the vehicle can travel with the current fuel, and returns a boolean value indicating whether or not the vehicle can reach the next fuel pump with the current fuel.
